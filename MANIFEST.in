@@ -1,0 +1,3 @@
+recursive-include jb1_zoomies/static *
+include LICENSE
+include README.md

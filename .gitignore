@@ -1,0 +1,6 @@
+build/
+_build
+*egg*
+*__pycache__
+.DS*
+dist
