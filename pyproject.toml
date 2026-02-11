@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "jb1-zoomies"
-version = "0.2"
-description = "A Sphinx extension to integrate Viewer.js for image zooming."
+version = "0.2.1"
+description = "A Sphinx extension to integrate Viewer.js for image zooming into Sphinx documentation (designed for JupyterBook v1)."
 readme = "README.md"
 authors = [{ name = "Fabio Bonassi", email = "fabio.bonassi@polimi.it" }]
 license = "MIT"
@@ -21,7 +21,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/fbonassi/jb1-zoomies"
+Homepage = "https://github.com/bonassifabio/jb1-zoomies"
 
 [tool.setuptools]
 packages = ["jb1_zoomies", "jb1_zoomies.static"]
